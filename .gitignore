@@ -8,10 +8,5 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data
-data/raw/*
-data/intermediate/*
-data/processed/*
-
 # OS
 .DS_Store
